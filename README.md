@@ -3,7 +3,7 @@ Projeto construído durante a 5º aula da Imersão Dev proporcionado pela Alura.
 
 
 
----------->AULA 05 IMERSÃO DEV--------- 
+---------->AULA 05 IMERSÃO DEV---------(texto da Imersão Dev do Alura) 
 REFATORANDO O ALURAFLIX COM FUNÇÕES
 PARTICIPE E VÁ MAIS FUNDO
 Na maior parte das vezes, queremos que as partes do nosso código não saiam executando a qualquer hora, mas somente no momento em que queremos que isso aconteça. Por exemplo, se um trecho do programa depende de alguma informação que venha do usuário - uma seleção feita na tela ou um texto em um formulário -, temos que deixar claro no código que "este trecho tem que ser executado na hora certa". Para isso, entre outras coisas, utilizamos uma ferramenta super comum em programação, a função.
